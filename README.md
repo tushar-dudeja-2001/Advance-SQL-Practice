@@ -1,4 +1,4 @@
-![Banner](https://https://github.com/tushar-dudeja-2001/Advance-SQL-Practice/blob/main/Advance%20SQL%20Practice.png)
+
 # Advance-SQL-Practice
 A comprehensive collection of advanced SQL practice scripts created during hands-on learning. This project explores complex joins, subqueries, window functions, CTEs, unions, and analytical queries to build strong data analysis, querying, and problem-solving skills.
 
