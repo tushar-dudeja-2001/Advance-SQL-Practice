@@ -16,6 +16,7 @@ CROSS join
 
 🔹 Set Operations
 UNION vs UNION ALL
+
 🔹 Subqueries
 Subqueries in SELECT
 Subqueries in FROM
